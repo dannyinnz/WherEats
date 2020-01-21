@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Vote msg="Welcome to WherEat!"/>
+    <Vote msg="Welcome to WherEats"/>
   </div>
 </template>
 
